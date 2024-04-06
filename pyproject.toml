@@ -8,7 +8,7 @@ license = "GPL"
 include = ["CHANGELOG.md", "README.md", "sacd_gui.ui", "sacd_gui.png"]
 
 [tool.poetry.scripts]
-sacd-extract-gui = 'sacd-extract-gui.__main__:main'
+sacd-extract-gui = 'sacd_extract_gui.__main__:main'
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.13"
