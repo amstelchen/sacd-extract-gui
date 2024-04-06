@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Metro 2033 Config Editor
+GenericName=Metro 2033 Config Editor
+Type=Application
+Comment=Configure settings for Metro games.
+Icon=sacd_gui
+Exec=/usr/bin/python -m sacd_extract_gui
+Terminal=false
+StartupNotify=false
+StartupWMClass=mce
+Categories=Games;
